@@ -1,0 +1,1 @@
+Project to follow the examples from Bootstrap 4 Quickstart course on Code College.
